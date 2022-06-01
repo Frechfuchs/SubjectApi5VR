@@ -3,6 +3,9 @@
 .vscode/
 *.code-workspace
 
+# Rider and other JB products
+.idea/
+
 # Compiled Object files
 *.slo
 *.lo
